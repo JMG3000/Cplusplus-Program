@@ -1,5 +1,5 @@
 /*
-Name: Jacob M. Garrett
+Name: JakeTheSnake(JMG3000)
 Date: 4/20/2025
 Description: A program to store and retrieve an item list by using a text file. This porgram allows has features to allow
 the user to search for a item and return the number in inventory, displaying the inventory in a histiograph format, and it 
